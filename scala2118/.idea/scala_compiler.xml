@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="scala2118">
+      <parameters>
+        <parameter value="-dependencyfile" />
+        <parameter value="D:\IdeaProjects\scala2118\target/.scala_dependencies" />
+      </parameters>
+    </profile>
+  </component>
+</project>
